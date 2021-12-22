@@ -1,1 +1,1 @@
-Uncomment one index.html file at a time, to avoid block scoping errors.
+Uncomment one App.js file at a time, to avoid block scoping errors.
